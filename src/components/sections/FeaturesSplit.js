@@ -72,7 +72,7 @@ const FeaturesSplit = ({
                   agora, sem sair de casa!
                 </p>
                 <button className="mt-12 button button-primary button-wide-mobile button-sm">
-                  Renove agora
+                  <a href="https://api.whatsapp.com/send?phone=5511950486548&text=Ol%C3%A1%20Andr%C3%A9%2C%20tudo%20bem%3F%20Gostaria%20de%20saber%20mais%20sobre%20a%20renova%C3%A7%C3%A3o%20do%20certificado%20digital.">Renove agora</a> 
                 </button>
               </div>
               <div
@@ -103,9 +103,8 @@ const FeaturesSplit = ({
                 </p>
                 <button
                   className="mt-12 button button-primary button-wide-mobile button-sm"
-                  href="https://youcertificados.com.br/usos"
                 >
-                  <Link>Saiba Mais</Link>
+                 <a href="https://youcertificados.com.br/usos">Saiba Mais</a>
                 </button>
               </div>
               <div
@@ -136,9 +135,8 @@ const FeaturesSplit = ({
                 </p>
                 <button
                   className="mt-12 button button-primary button-wide-mobile button-sm"
-                  href="https://cert-checker.vpki.com.br/cert-checker-web/pages/public/welcome.jsf?faces-redirect=true#second"
                 >
-                  <Link>Teste agora seu certificado</Link>
+                 <a href="https://cert-checker.vpki.com.br/cert-checker-web/pages/public/welcome.jsf?faces-redirect=true#second">Teste Agora Mesmo</a>
                 </button>
               </div>
               <div
@@ -170,7 +168,7 @@ const FeaturesSplit = ({
                   className="mt-12 button button-primary button-wide-mobile button-sm"
                   href="https://cert-checker.vpki.com.br/cert-checker-web/pages/public/welcome.jsf?faces-redirect=true#second"
                 >
-                  <Link>Conheça suas obrigatoriedades</Link>
+                  <a href="https://youcertificados.com.br/conteudo/Obrigatoriedades-do-m%C3%AAs-de-mar%C3%A7o-de-2017-13822">Conheça suas obrigatoriedades</a>
                 </button>
               </div>
               <div
