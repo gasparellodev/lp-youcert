@@ -66,15 +66,16 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">e-CPF A1</h4>
+                  <h3 className="mt-0 mb-8">e-CPF A1</h3>
+                  <h4 className="mt-0 mb-8">R$ 155,00</h4>
                   <p className="m-0 text-sm">
                     Certificado Digital e-CPF ICP-Brasil para Pessoa Fisíca
                   </p>
                   <button
                     className="mt-12 button button-primary button-wide-mobile button-sm"
-                    href="#"
+                    
                   >
-                    Compre agora
+                    <a href="https://api.whatsapp.com/send?phone=5511950486548&text=Ol%C3%A1%20Andr%C3%A9%2C%20tudo%20bem%3F%20Quero%20adquirir%20o%20meu%20e-CPF%20A1!%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%20e%20os%20procedimentos%20necess%C3%A1rios%3F">Compre agora</a>
                   </button>
                 </div>
               </div>
@@ -96,15 +97,16 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">e-CNPJ A1</h4>
+                  <h3 className="mt-0 mb-8">e-CNPJ A1</h3>
+                  <h4 className="mt-0 mb-8">R$ 232,00</h4>
                   <p className="m-0 text-sm">
                     Certificado Digital e-CNPJ ICP-Brasil para Pessoa Jurídica
                   </p>
                   <button
                     className="mt-12 button button-primary button-wide-mobile button-sm"
-                    href="#"
+                    
                   >
-                    Compre agora
+                    <a href="https://api.whatsapp.com/send?phone=5511950486548&text=Ol%C3%A1%20Andr%C3%A9%2C%20tudo%20bem%3F%20Quero%20adquirir%20o%20meu%20e-CNPJ%20A1!%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%20e%20os%20procedimentos%20necess%C3%A1rios%3F">Compre agora</a>
                   </button>
                 </div>
               </div>
@@ -126,16 +128,17 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">e-CNPJ MEI</h4>
+                  <h3 className="mt-0 mb-8">e-CNPJ MEI</h3>
+                  <h4 className="mt-0 mb-8">R$ 200,00</h4>
                   <p className="m-0 text-sm">
                     Certificado Digital e-CNPJ MEI ICP-Brasil EXCLUSIVO para
                     Micro Empreendedor Individual.
                   </p>
                   <button
                     className="mt-12 button button-primary button-wide-mobile button-sm"
-                    href="#"
+                    
                   >
-                    Compre agora
+                    <a href="https://api.whatsapp.com/send?phone=5511950486548&text=Ol%C3%A1%20Andr%C3%A9%2C%20tudo%20bem%3F%20Quero%20adquirir%20o%20meu%20e-CNPJ%20MEI%20A1!%20Poderia%20me%20passar%20mais%20informa%C3%A7%C3%B5es%20e%20os%20procedimentos%20necess%C3%A1rios%3F">Compre agora</a>
                   </button>
                 </div>
               </div>
