@@ -20,7 +20,7 @@ const FooterSocial = ({
         
         
         <li>
-          <a href="https://google.com/">
+          <a href="https://instagram.com/youcertificados?igshid=YmMyMTA2M2Y=">
             <svg
               width="32"
               height="32"
