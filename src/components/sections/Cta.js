@@ -56,12 +56,11 @@ const Cta = ({
               Seja um parceiro emissor!
               </h3>
           </div>
-          <div className="cta-action">
-            <Input id="newsletter" type="email" label="Subscribe" labelHidden hasIcon="right" placeholder="Seu melhor email">
-              <svg width="16" height="12" xmlns="http://www.w3.org/2000/svg">
-                <path d="M9 5H1c-.6 0-1 .4-1 1s.4 1 1 1h8v5l7-6-7-6v5z" fill="#376DF9" />
-              </svg>
-            </Input>
+          <div className="mt-12 button button-dark button-wide-mobile button">
+          <a href="https://api.whatsapp.com/send?phone=5511950486548&text=Ol%C3%A1%20Andr%C3%A9%2C%20tudo%20bem%3F%20Gostaria%20de%20me%20tornar%20um%20parceiro%20emissor!%20Como%20funciona%20o%20processo%3F">
+            Entre em contato conosco! 
+          </a>
+            
           </div>
         </div>
       </div>

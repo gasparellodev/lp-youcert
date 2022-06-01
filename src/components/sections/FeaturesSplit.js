@@ -83,10 +83,8 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-01.jpg")}
-                  alt="Features split 01"
-                  width={528}
-                  height={396}
+                  src={require("./../../assets/images/renovation.svg")}
+                  alt="Renovação de Certificado Digital"
                 />
               </div>
             </div>
@@ -115,8 +113,8 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-02.jpg")}
-                  alt="Features split 02"
+                  src={require("./../../assets/images/applicationUse.svg")}
+                  alt="Aplicações e Uso"
                   width={528}
                   height={396}
                 />
@@ -147,7 +145,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-03.png")}
+                  src={require("./../../assets/images/security.png")}
                   alt="Features split 03"
                   width={528}
                   height={396}
@@ -179,10 +177,10 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-03.png")}
+                  src={require("./../../assets/images/obrigatoriedade.svg")}
                   alt="Features split 03"
-                  width={528}
-                  height={396}
+                  width={580}
+                  height={380}
                 />
               </div>
             </div>
